@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Misha",
+      "lastName": "Chauhan",
+      "email": "misha@gmail.com"
+    },
+    {
+      "id": "2",
+      "firstName": "Krina",
+      "lastName": "Shah",
+      "email": "krina@gmail.com"
+    },
+    {
+      "id": "3",
+      "firstName": "Arav",
+      "lastName": "Thakor",
+      "email": "arav@gmail.com"
+    },
+    {
+      "id": "4",
+      "firstName": "Hetvi",
+      "lastName": "Patel",
+      "email": "hetvi@gmail.com"
+    },
+    {
+      "id": "5",
+      "firstName": "Mili",
+      "lastName": "Desai",
+      "email": "mili@gmail.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Nidhi",
+      "lastName": "Vansia",
+      "email": "nidhi@gmail.com"
+    }
+  ]
+}
